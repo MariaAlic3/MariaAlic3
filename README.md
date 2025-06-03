@@ -1,7 +1,7 @@
 ## Olá, me chamo Maria Alice, sou uma desenvolvedora front-end 👋
 
 - 🌱 Estudando TypeScript e React.js
-##
+
 ### 🤖 Linguagens e Tecnologias
 
 
