@@ -25,6 +25,7 @@ Estou em busca de novas oportunidades na área de tecnologia, onde possa aplicar
   <img align="center" alt="MariaAlice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MariaAlice-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MariaAlice-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MariaAlice-Nodejs" height="30" width="40" src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
 
 
@@ -48,4 +49,5 @@ Estou em busca de novas oportunidades na área de tecnologia, onde possa aplicar
 </div>
 
 ###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MariaAlic3.MariaAlic3&right_color=darkviolet&left_text=Visitas"  />
 
